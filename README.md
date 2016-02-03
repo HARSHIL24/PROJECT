@@ -52,13 +52,13 @@
 
 •	readxl
 
-•	haven
+•	havenData Munging in R - Part 2.docx
 
 •	jsonlite
 
 •	tidyr
 
-### [Session 5: Data Munging in R - Part II](SESSION4/Data Munging in R - Part II.docs)
+### [Session 5: Data Munging in R - Part II](SESSION4/Data Munging in R - Part 2.docx)
 
 **Topics Covered**
 
