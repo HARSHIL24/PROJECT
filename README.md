@@ -74,13 +74,7 @@
 
 •	apply family of functions
 
-### [Session 7: Reporting and Business App Development](./sessions/w7/)
 
-**Topics Covered**
-
-•	Working with RMarkdown
-
-•	Shiny
 
 
 
